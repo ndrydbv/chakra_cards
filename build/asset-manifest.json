@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/chakra_cards/static/js/main.8299f207.js",
+    "static/media/background.png": "/chakra_cards/static/media/background.9131ff0c530aa0e69c56.png",
+    "index.html": "/chakra_cards/index.html",
+    "main.8299f207.js.map": "/chakra_cards/static/js/main.8299f207.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8299f207.js"
+  ]
+}
